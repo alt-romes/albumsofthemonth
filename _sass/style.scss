@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+// Customization
+
+// You can easily customize Bulma with your own variables.
+// Just uncomment the following block to see the result.
+
+/*
+// 1. Import the initial variables
+@import "../node_modules/bulma/sass/utilities/initial-variables";
+// 2. Set your own initial variables
+// Update the blue shade, used for links
+$blue: #06bcef;
+// Add pink and its invert
+$pink: #ff8080;
+$pink-invert: #fff;
+// Update the sans-serif font family
+$family-sans-serif: "Helvetica", "Arial", sans-serif;
+// 3. Set the derived variables
+// Use the new pink as the primary color
+$primary: $pink;
+$primary-invert: $pink-invert;
+// 4. Import the rest of Bulma
+*/
+
+@import "node_modules/bulma/bulma";
+
+body {
+    height: 100vh;
+    background-color: #F7F7FD;
+}
+
+div.post {
+    margin: auto;
+    display: block;
+    height: 20rem;
+    width: 20rem;
+    background-image: url("https://i.pinimg.com/originals/f9/21/b9/f921b93a8eaccd524603bf79ff80be27.jpg");
+    background-size: 20rem 20rem;
+    box-shadow: 0 2.5rem 5rem -2.75rem rgba(0,0,0,0.85);
+    -webkit-box-reflect: below 1rem linear-gradient(180deg, rgba(#fff, 0) 50%, rgba(#fff, 0.25) 100%);
+
+    &-container {
+        display: block;
+        position: relative;
+        width: 100%;
+        height: 100%;
+        padding: 1rem;
+        overflow: hidden;
+        box-shadow: inset 0 0 5rem rgba(255,255,255,0.2);
+    }
+
+}
+
+.meta {
+
+    margin-top: 1rem;
+    color: #040515;
+    letter-spacing: 0.04rem;
+
+    &-album {
+        font-weight: 400;
+    }
+    
+    &-artist {
+        font-weight: 200;
+    }
+
+    &-week {
+        font-weight: 150;
+        bottom: 1rem;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    .meta {
+        margin-top: 4rem;
+    }
+}

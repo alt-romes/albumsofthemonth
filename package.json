@@ -1,0 +1,26 @@
+{
+  "name": "aotw",
+  "version": "1.0.0",
+  "description": "album of the week",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alt-romes/albumoftheweek.git"
+  },
+  "author": "romes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alt-romes/albumoftheweek/issues"
+  },
+  "homepage": "https://github.com/alt-romes/albumoftheweek#readme",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "node-sass": "^4.13.0"
+  },
+  "scripts": {
+    "css-build": "node-sass _sass/style.scss style.css"
+  }
+}
