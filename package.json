@@ -4,7 +4,7 @@
   "description": "album of the week",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "css-build": "node-sass _sass/style.scss style.css"
   },
   "repository": {
     "type": "git",
@@ -19,8 +19,5 @@
   "dependencies": {
     "bulma": "^0.8.0",
     "node-sass": "^4.13.0"
-  },
-  "scripts": {
-    "css-build": "node-sass _sass/style.scss style.css"
   }
 }

@@ -16,7 +16,7 @@ $primary-invert: $pink-invert;
 // 4. Import the rest of Bulma
 */
 /*! bulma.io v0.8.0 | MIT License | github.com/jgthms/bulma */
-@import url("https://fonts.googleapis.com/css?family=Barlow&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Bowlby+One+SC|Nanum+Gothic&display=swap");
 @keyframes spinAround {
   from {
     transform: rotate(0deg); }
@@ -7120,8 +7120,10 @@ label.panel-block {
   padding: 3rem 1.5rem 6rem; }
 
 html {
-  height: 100vh;
-  background-color: #F7F7FD; }
+  height: 100vh; }
+
+.aotw {
+  font-family: 'Bowlby One SC', cursive; }
 
 div.post {
   margin: auto;
@@ -7142,8 +7144,7 @@ div.post {
     box-shadow: inset 0 0 5rem rgba(255, 255, 255, 0.2); }
 
 .meta {
-  padding: 1.5rem 0.5rem;
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   color: #040515;
   letter-spacing: 0.04rem;
   text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1); }
