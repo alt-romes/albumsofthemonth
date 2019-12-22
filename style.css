@@ -16,6 +16,7 @@ $primary-invert: $pink-invert;
 // 4. Import the rest of Bulma
 */
 /*! bulma.io v0.8.0 | MIT License | github.com/jgthms/bulma */
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @keyframes spinAround {
   from {
     transform: rotate(0deg); }
@@ -7141,6 +7142,7 @@ div.post {
     box-shadow: inset 0 0 5rem rgba(255, 255, 255, 0.2); }
 
 .meta {
+  font-family: 'Raleway', sans-serif;
   margin-top: 1rem;
   color: #040515;
   letter-spacing: 0.04rem; }

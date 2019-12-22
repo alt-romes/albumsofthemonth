@@ -24,6 +24,7 @@ $primary-invert: $pink-invert;
 */
 
 @import "node_modules/bulma/bulma";
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
 body {
     height: 100vh;
@@ -53,7 +54,7 @@ div.post {
 }
 
 .meta {
-
+    font-family: 'Raleway', sans-serif;
     margin-top: 1rem;
     color: #040515;
     letter-spacing: 0.04rem;
