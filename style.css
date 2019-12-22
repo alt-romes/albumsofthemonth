@@ -7125,23 +7125,15 @@ html {
 .aotw {
   font-family: 'Bowlby One SC', cursive; }
 
-div.post {
+.post, .i-a-f {
   margin: auto;
   display: block;
   height: 10rem;
   width: 10rem;
-  background-image: url("https://i.pinimg.com/originals/f9/21/b9/f921b93a8eaccd524603bf79ff80be27.jpg");
+  background-image: url("");
   background-size: 10rem 10rem;
   box-shadow: 0 2.5rem 5rem -2.75rem rgba(0, 0, 0, 0.85);
   -webkit-box-reflect: below 1rem linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 100%); }
-  div.post-container {
-    display: block;
-    position: relative;
-    width: 100%;
-    height: 100%;
-    padding: 1rem;
-    overflow: hidden;
-    box-shadow: inset 0 0 5rem rgba(255, 255, 255, 0.2); }
 
 .meta {
   font-family: 'Nanum Gothic', sans-serif;
@@ -7155,6 +7147,16 @@ div.post {
   .meta-week {
     font-weight: 150; }
 
+.i-album {
+  padding-bottom: 2rem; }
+
+.i-a-f {
+  height: 5rem;
+  width: 5rem;
+  -webkit-box-reflect: below 1rem linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, rgba(255, 255, 255, 0.25) 100%); }
+
 @media only screen and (max-width: 770px) {
-  .meta {
+  .album-list {
+    margin-top: 1rem; }
+  .meta-album, .meta-artist {
     text-align: center; } }
