@@ -56,6 +56,7 @@ var app = {
 		this.loadJSON((r) => {
 			app.model = JSON.parse(r);
 			app.view.init();
+			console.log(app.model)
 		});	
         }
     }
