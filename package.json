@@ -4,7 +4,8 @@
   "description": "album of the week",
   "main": "index.js",
   "scripts": {
-    "css-build": "node-sass _sass/style.scss style.css"
+    "css-build": "node-sass _sass/style.scss style.css",
+    "addalbum": "./add-aotw.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   "homepage": "https://github.com/alt-romes/albumoftheweek#readme",
   "dependencies": {
     "bulma": "^0.8.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
     "node-sass": "^4.13.0"
   }
 }

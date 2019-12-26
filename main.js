@@ -24,7 +24,7 @@ var app = {
                                                                 </div>`
             var previousAlbunsEl = document.getElementById("previous-albums");
             previousAlbunsEl.innerHTML = ""
-            for(var i=0; i<app.model.previous.length; i++) {
+            for(var i=app.model.previous.length-1; i>=0; i--) {
                 previousAlbunsEl.innerHTML += `<nav class="level is-mobile i-album">
                                                     <div class="level-item">
                                                         <img src="${app.model.previous[i].cover}" class="figure i-a-f">
@@ -56,7 +56,6 @@ var app = {
 		this.loadJSON((r) => {
 			app.model = JSON.parse(r);
 			app.view.init();
-			console.log(app.model)
 		});	
         }
     }
