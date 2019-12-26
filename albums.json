@@ -1,63 +1,63 @@
 {
     "previous": [
         {
-            "name": "Californication",
-            "artist": "Red Hot Chili Peppers",
-            "cover": "https://www.comunidadeculturaearte.com/wp-content/uploads/2019/06/Red-Hot-Chili-Peppers.jpg",
-            "week": 1
-        },
-        {
-            "name": "(What's The Story) Morning Glory ?",
-            "artist": "Oasis",
-            "cover": "https://images.radiox.co.uk/images/8687?crop=16_9&width=660&relax=1&signature=wk9uiZvLZasRIdQNq9HVAcovcDg=",
-            "week": 2
-        },
-        {
-            "name": "Greatest Hits",
-            "artist": "Placebo",
-            "cover": "https://lastfm.freetls.fastly.net/i/u/770x0/f7bda1cb8419c0033339eea0ef1176cd.jpg",
-            "week": 3
-        },
-        {
-            "name": "Turn Blue",
-            "artist": "The Black Keys",
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/81mdo0%2BAo9L._SY355_.jpg",
-            "week": 4
-        },
-        {
             "name": "Surfer Rosa",
             "artist": "Pixies",
             "cover": "https://images-na.ssl-images-amazon.com/images/I/716voHp6zOL._SX355_.jpg",
-            "week": 5
+            "week": 1
         },
         {
             "name": "Doolittle",
             "artist": "Pixies",
             "cover": "https://images-na.ssl-images-amazon.com/images/I/51YjAmmFgqL._SX425_.jpg",
-            "week": 6
+            "week": 2
         },
         {
             "name": "Bossanova",
             "artist": "Pixies",
             "cover": "https://www.louielouie.pt/pub/media/catalog/product/cache/image/1000x1320/e9c3970ab036de70892d86c6d221abfe/p/i/pixies_bossanova.jpg",
-            "week": 7
+            "week": 3
         },
         {
             "name": "Unplugged",
             "artist": "Alice In Chains",
             "cover": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/AIC_Unplugged.jpg/220px-AIC_Unplugged.jpg",
-            "week": 8
+            "week": 4
         },
         {
             "name": "The Queen Is Dead",
             "artist": "The Smiths",
             "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/The-Queen-is-Dead-cover.png/220px-The-Queen-is-Dead-cover.png",
-            "week": 9
+            "week": 5
         },
         {
             "name": "Revolver",
             "artist": "The Beatles",
             "cover": "http://www.mccartney.com/wp-content/uploads/2019/08/66730.jpg",
+            "week": 6
+        },
+        {
+            "name": "Californication",
+            "artist": "Red Hot Chili Peppers",
+            "cover": "https://www.comunidadeculturaearte.com/wp-content/uploads/2019/06/Red-Hot-Chili-Peppers.jpg",
+            "week": 7
+        },
+        {
+            "name": "(What's The Story) Morning Glory ?",
+            "artist": "Oasis",
+            "cover": "https://images.radiox.co.uk/images/8687?crop=16_9&width=660&relax=1&signature=wk9uiZvLZasRIdQNq9HVAcovcDg=",
+            "week": 8
+        },
+        {
+            "name": "Greatest Hits",
+            "artist": "Placebo",
+            "cover": "https://lastfm.freetls.fastly.net/i/u/770x0/f7bda1cb8419c0033339eea0ef1176cd.jpg",
+            "week": 9
+        },
+        {
+            "name": "Turn Blue",
+            "artist": "The Black Keys",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/81mdo0%2BAo9L._SY355_.jpg",
             "week": 10
         },
         {
