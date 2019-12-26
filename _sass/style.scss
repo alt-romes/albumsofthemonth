@@ -23,20 +23,16 @@ $primary-invert: $pink-invert;
 // 4. Import the rest of Bulma
 */
 
+//Custom bulma variables
+
+$footer-background-color: white;
+$footer-padding: 3rem 1.5rem;
+
 @import "node_modules/bulma/bulma";
 @import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Nanum+Gothic&display=swap');
 
 html {
     height: 100vh;
-}
-
-a {
-    color: black;
-    font-weight: 300;
-}
-
-.footer {
-    background-color: white;
 }
 
 .aotw {
