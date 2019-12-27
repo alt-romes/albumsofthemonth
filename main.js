@@ -7,7 +7,31 @@ var app = {
             var previousAlbunsEl = document.getElementById("previous-albums");
             previousAlbunsEl.innerHTML = ""
             for(var i=app.model.previous.length-1; i>=0; i--) {
+                var timeframe;
+                if (app.model.previous[i].month.toLowerCase()==app.model.current.month.toLowerCase() 
+                        && app.model.previous[i].year == app.model.current.year)
+                    timeframe = "this month"
+                else
+                    timeframe = ""
+                
+                if (i+1<app.model.previous.length 
+                        && app.model.previous[i+1].month.toLowerCase()==app.model.previous[i].month.toLowerCase() 
+                        && app.model.previous[i+1].year == app.model.previous[i].year)
+                    timeframe = "";
+                else
+                    timeframe = `${app.model.previous[i].month.toLowerCase()} ${app.model.previous[i].year}` 
+
+                var timeframehtml = "";
+                if (timeframe!="")
+                    timeframehtml = `<nav class="level is-mobile timeframe">
+                                        <div class="level-item has-text-centered">
+                                            <div>
+                                                <p>${timeframe}</p>
+                                            </div>
+                                        </div>
+                                    </nav>`
                 previousAlbunsEl.innerHTML += `
+                                                ${timeframehtml}
                                                 <nav class="level is-mobile i-album">
                                                     <div class="level-item">
                                                         <img src="${app.model.previous[i].cover}" class="figure i-a-f">
@@ -16,7 +40,6 @@ var app = {
                                                     </div>
                                                     <p class="level-item"><strong>${app.model.previous[i].name}</strong></p>
                                                     <p class="level-item"><em>${app.model.previous[i].artist}</em></p>
-                                                    <p class="level-item"><strong class="is-size-7">#${i}</strong></p>
                                                 </nav>
                                                 `
             }

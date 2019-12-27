@@ -29,14 +29,25 @@ $footer-background-color: white;
 $footer-padding: 3rem 1.5rem;
 
 @import "node_modules/bulma/bulma";
-@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+
+@font-face {
+    font-family: 'ITC Kabel';
+    src: url("ITCKabelStd.otf");
+}
 
 html {
     height: 100vh;
 }
 
-.aotw {
-    font-family: 'Bowlby One SC', cursive;
+.aotw, .timeframe {
+    font-family: 'ITC Kabel';
+}
+
+.timeframe {
+    margin-bottom: 0rem !important;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
 }
 
 .post,.i-a-f {
@@ -78,7 +89,6 @@ html {
 .i-a-f {
     height: 5rem;
     width: 5rem;
-    border: 1px solid rgba(0,0,0,0.1);
     box-shadow: 0 0 1rem rgba(0,0,0,0.10);
     -webkit-box-reflect: below 1rem linear-gradient(180deg, rgba(#fff, 0) 65%, rgba(#fff, 0.25) 100%);
 }
