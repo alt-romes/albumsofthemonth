@@ -2,9 +2,14 @@
 
 var co = require('co');
 var prompt = require('co-prompt');
-var albums = require('./albums.json');
 
 const fs = require('fs');
+
+if (!fs.existsSync('./albums.json')) {
+    fs.writeFileSync('./albums.json', "{}", (err) => {if(err) throw err; console.log("File albums.json was created")})
+}
+
+var albums = require('./albums.json');
 
 co(function *() {
 	console.log('Adding a new Album...');
