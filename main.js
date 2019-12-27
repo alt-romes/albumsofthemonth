@@ -3,7 +3,8 @@ var app = {
     },
     view: {
         init: function () {
-            document.getElementById("current-album").innerHTML = `<div class="column is-5">
+            document.getElementById("current-album").innerHTML = `
+                                                                <div class="column is-5">
                                                                     <img class="post image" src="${app.model.current.cover}">
                                                                         <div class="post-container"></div>
                                                                     </img>
@@ -25,7 +26,8 @@ var app = {
             var previousAlbunsEl = document.getElementById("previous-albums");
             previousAlbunsEl.innerHTML = ""
             for(var i=app.model.previous.length-1; i>=0; i--) {
-                previousAlbunsEl.innerHTML += `<nav class="level is-mobile i-album">
+                previousAlbunsEl.innerHTML += `
+                                                <nav class="level is-mobile i-album">
                                                     <div class="level-item">
                                                         <img src="${app.model.previous[i].cover}" class="figure i-a-f">
                                                             <div class="container"></div>
@@ -34,7 +36,9 @@ var app = {
                                                     <p class="level-item"><strong>${app.model.previous[i].name}</strong></p>
                                                     <p class="level-item"><em>${app.model.previous[i].artist}</em></p>
                                                     <p class="level-item"><strong class="is-size-7">#${app.model.previous[i].week}</strong></p>
-                                                </nav>`
+                                                </nav>
+                                                <br>
+                                                `
             }
     }
     },

@@ -7133,7 +7133,8 @@ html {
   background-image: url("");
   background-size: 10rem 10rem;
   box-shadow: 0 2.5rem 5rem -2.75rem rgba(0, 0, 0, 0.85);
-  -webkit-box-reflect: below 1rem linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 100%); }
+  -webkit-box-reflect: below 1rem linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.25) 100%);
+  padding-bottom: 1rem; }
 
 .meta {
   font-family: 'Nanum Gothic', sans-serif;
@@ -7153,6 +7154,8 @@ html {
 .i-a-f {
   height: 5rem;
   width: 5rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
   -webkit-box-reflect: below 1rem linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, rgba(255, 255, 255, 0.25) 100%); }
 
 @media only screen and (max-width: 770px) {

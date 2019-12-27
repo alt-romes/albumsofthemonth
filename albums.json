@@ -1129,40 +1129,22 @@
             "week": 188
         },
         {
-            "name": "Cocteau Twins Singles Collections - EP",
-            "artist": "Cocteau Twins",
-            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music/87/62/d0/mzi.tapshgal.jpg/268x0w.jpg",
-            "week": 189
-        },
-        {
-            "name": "Breathe - EP",
-            "artist": "Eternal",
-            "cover": "https://f4.bcbits.com/img/a2392567057_10.jpg",
-            "week": 190
-        },
-        {
-            "name": "Holding Our Breath",
-            "artist": "Slowdive",
-            "cover": "https://lastfm.freetls.fastly.net/i/u/770x0/ee688b0ee5d7368da2d0d3293f284d84.jpg",
-            "week": 191
-        },
-        {
             "name": "Milk & Kisses",
             "artist": "Cocteau Twins",
             "cover": "https://img.discogs.com/jU_GJj77OwXfcJPmymBpxST9Pwg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28527-1217706577.jpeg.jpg",
-            "week": 192
+            "week": 189
         },
         {
             "name": "Pod",
             "artist": "The Breeders",
             "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/The_Breeders_Pod.jpg/220px-The_Breeders_Pod.jpg",
-            "week": 193
+            "week": 190
         }
     ],
     "current": {
         "name": "Blue Bell Knoll",
         "artist": "Cocteau Twins",
         "cover": "https://cf-cdn.beggars.com/fourad/site/images/releases/packshots/5661989f73648.jpg",
-        "week": 194
+        "week": 191
     }
 }
