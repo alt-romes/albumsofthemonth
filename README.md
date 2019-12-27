@@ -84,10 +84,10 @@ Create a new repository named - **yourusername.github.io** (use your github user
 
 Copy the repository's https link.
 
-Remove old git config
+Remove git directory to create new one
 
 ```
-rm .git
+rm -rf .git
 ```
 
 Init git and publish to your new repository
