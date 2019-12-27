@@ -3,6 +3,23 @@ var app = {
     },
     view: {
         init: function () {
+            
+            var previousAlbunsEl = document.getElementById("previous-albums");
+            previousAlbunsEl.innerHTML = ""
+            for(var i=app.model.previous.length-1; i>=0; i--) {
+                previousAlbunsEl.innerHTML += `
+                                                <nav class="level is-mobile i-album">
+                                                    <div class="level-item">
+                                                        <img src="${app.model.previous[i].cover}" class="figure i-a-f">
+                                                            <div class="container"></div>
+                                                        </img>
+                                                    </div>
+                                                    <p class="level-item"><strong>${app.model.previous[i].name}</strong></p>
+                                                    <p class="level-item"><em>${app.model.previous[i].artist}</em></p>
+                                                    <p class="level-item"><strong class="is-size-7">#${i}</strong></p>
+                                                </nav>
+                                                `
+            }
             document.getElementById("current-album").innerHTML = `
                                                                 <div class="column is-5">
                                                                     <img class="post image" src="${app.model.current.cover}">
@@ -20,26 +37,9 @@ var app = {
                                                                         <em>${app.model.current.artist}</em>
                                                                     </div>
                                                                     <div class="subtitle is-7 meta-week has-text-centered">
-                                                                        <b>#${app.model.current.week}</b>
+                                                                        <b>#${app.model.previous.length}</b>
                                                                     </div>
                                                                 </div>`
-            var previousAlbunsEl = document.getElementById("previous-albums");
-            previousAlbunsEl.innerHTML = ""
-            for(var i=app.model.previous.length-1; i>=0; i--) {
-                previousAlbunsEl.innerHTML += `
-                                                <nav class="level is-mobile i-album">
-                                                    <div class="level-item">
-                                                        <img src="${app.model.previous[i].cover}" class="figure i-a-f">
-                                                            <div class="container"></div>
-                                                        </img>
-                                                    </div>
-                                                    <p class="level-item"><strong>${app.model.previous[i].name}</strong></p>
-                                                    <p class="level-item"><em>${app.model.previous[i].artist}</em></p>
-                                                    <p class="level-item"><strong class="is-size-7">#${app.model.previous[i].week}</strong></p>
-                                                </nav>
-                                                <br>
-                                                `
-            }
     }
     },
     controller: {
