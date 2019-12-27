@@ -1,22 +1,14 @@
 {
-  "name": "aotw",
+  "name": "aotm",
   "version": "1.0.0",
-  "description": "album of the week",
-  "main": "index.js",
+  "description": "albums of the month",
+  "private": true,
   "scripts": {
     "css-build": "node-sass _sass/style.scss style.css",
-    "addalbum": "./add-aotw.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alt-romes/albumoftheweek.git"
+    "addalbum": "./add-album.js"
   },
   "author": "romes",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alt-romes/albumoftheweek/issues"
-  },
-  "homepage": "https://github.com/alt-romes/albumoftheweek#readme",
+  "license": "MIT",
   "dependencies": {
     "bulma": "^0.8.0",
     "co": "^4.6.0",
