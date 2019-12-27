@@ -60,6 +60,19 @@ npm run addalbum
 
 And follow the instructions that appear onscreen
 
+
+#### Saving Changes
+
+To save changes made to the list of albums update the file in the host.
+
+If you're using Github Pages, this means pushing these changes to your repository (*See deployment for better understanding*)
+
+```
+git add .
+git commit -m "album added"
+git push https://github.com/yourusername/yourusername.github.io.git
+```
+
 ### Editing or Deleting an Album
 
 Edit the JSON file with a text editor.
@@ -101,7 +114,7 @@ Init git and publish to your new repository
 git init
 git add .
 git commit -m "publishing..."
-git push https://github.com/alt-romes/minblog.git
+git push https://github.com/yourusername/yourusername.github.io.git
 ```
 
 #### Accessing published website
