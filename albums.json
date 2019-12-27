@@ -1,9 +1,17 @@
 {
     "previous": [
         {
-            "name": "Cão!",
+            "name": "Boys Don't Cry",
+            "artist": "The Cure",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/71HaTSu4GQL._SX355_.jpg",
+            "year": 2019,
+            "month": "october",
+            "day": 5
+        },
+        {
+            "name": "Ornatos Violeta",
             "artist": "Ornatos Violeta",
-            "cover": "https://img.discogs.com/gwG-8u1ytUaEOz-Cvv0-av3Q-oA=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1210367-1337787716-9358.jpeg.jpg",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/ca/19/31/ca19318d-7b0e-2242-a33b-7e80e8dfcbc5/00602527909806.rgb.jpg/268x0w.jpg",
             "year": 2019,
             "month": "october",
             "day": 5
@@ -11,15 +19,7 @@
         {
             "name": "Oracular Spectacular",
             "artist": "MGMT",
-            "cover": "https://upload.wikimedia.org/wikipedia/en/8/83/Oracular_Spectacular_2008.jpg",
-            "year": 2019,
-            "month": "october",
-            "day": 5
-        },
-        {
-            "name": "O Monstro Precisa De Amigos",
-            "artist": "Ornatos Violeta",
-            "cover": "https://e.snmc.io/i/300/w/0aefbc0cc953b1282d0014c0fbe66a23/1239896",
+            "cover": "https://i.pinimg.com/originals/cc/a3/a0/cca3a0ddb80554b198cd09eb7af59d95.jpg",
             "year": 2019,
             "month": "october",
             "day": 5
@@ -27,7 +27,7 @@
         {
             "name": "Digital Ist Besser",
             "artist": "Tocotronic",
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/51XGtVTVjeL._SY355_.jpg",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/a3/23/5b/a3235b00-ba5d-600b-ab76-935e49ddb715/4047179053921_cover.jpg/268x0w.jpg",
             "year": 2019,
             "month": "october",
             "day": 5
@@ -35,7 +35,7 @@
         {
             "name": "Chants Of India",
             "artist": "Ravi Shankar",
-            "cover": "https://i.scdn.co/image/ab67616d0000b2734c3baaac22eeac4619aec04f",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/c5/de/6e/c5de6e79-f58c-806e-4727-51ad7c59ab49/00888072054127.rgb.jpg/268x0w.jpg",
             "year": 2019,
             "month": "november",
             "day": 5
@@ -66,7 +66,7 @@
         },
         {
             "name": "The Moon And The Melodies",
-            "artist": "Cocteau Twins <br>& Harold Budd",
+            "artist": "Cocteau Twins &<br> Harold Budd",
             "cover": "https://www.wxou.org/wp-content/uploads/2018/03/the-moon-and-the-melodies-527e8aa71ea8e.jpg",
             "year": 2019,
             "month": "december",
@@ -75,7 +75,7 @@
         {
             "name": "Milk & Kisses",
             "artist": "Cocteau Twins",
-            "cover": "https://img.discogs.com/jU_GJj77OwXfcJPmymBpxST9Pwg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28527-1217706577.jpeg.jpg",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e1/e6/8f/e1e68f10-b718-5ffd-4c06-e626c4e2da13/00602498403495.rgb.jpg/268x0w.jpg",
             "year": 2019,
             "month": "december",
             "day": 5
@@ -83,7 +83,7 @@
         {
             "name": "Pod",
             "artist": "The Breeders",
-            "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/The_Breeders_Pod.jpg/220px-The_Breeders_Pod.jpg",
+            "cover": "https://cf-cdn.beggars.com/fourad/site/images/releases/packshots/56fd2d33d3b9d.jpg",
             "year": 2019,
             "month": "december",
             "day": 5
