@@ -1,13 +1,12 @@
-# albumoftheweek
-album of the week
-
 # Albums Of The Month
 
 Share the most relevant albums you listened to.
+In time, you could see how your music taste changes (or not) over a few months
 
 ## Getting Started
 
-These instructions will get you a copy of the project on your local machine for publishing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project on your local machine for publishing purposes.
+See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -18,7 +17,7 @@ You must have node installed on your system.
 First clone the repository
 
 ```
-git clone https://github.com/alt-romes/albumoftheweek.git
+git clone https://github.com/alt-romes/albumofthemonth.git
 ```
 
 ```
