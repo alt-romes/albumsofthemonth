@@ -3,6 +3,7 @@
 Share the most relevant albums you listened to.
 In time, you could see how your music taste changes (or not) over a few months
 
+
 ## Getting Started
 
 These instructions will get you a copy of the project on your local machine for publishing purposes.
@@ -14,11 +15,14 @@ You must have node installed on your system.
 
 ### Installing
 
-First clone the repository
+Clone the repository
 
 ```
-git clone https://github.com/alt-romes/albumofthemonth.git
+git clone https://github.com/alt-romes/albumsofthemonth.git
+cd albumsofthemonth
 ```
+
+And install the dependencies
 
 ```
 npm run install
@@ -27,8 +31,10 @@ npm run install
 ## Editing the stylesheet
 
 To edit the stylesheet...
-First, you must write your SCSS code in *_sass/style.scss*.
-Second, you must compile the file for changes to take effect
+
+First, write your SCSS code in *_sass/style.scss*.
+
+Second, compile the code for changes to take effect
 ```
 npm run css-build
 ```
@@ -37,7 +43,8 @@ npm run css-build
 
 Delete the file *albums.json*
 
-Upon adding a first album, this file will be created with it
+Upon adding a first album, the file will be created with it
+
 
 ## Adding a New Album
 
@@ -47,51 +54,65 @@ To add a new album to the list run
 npm run addalbum
 ```
 
+And follow the instructions that appear onscreen
 
-Explain what these tests test and why
+### Editing or Deleting an Album
 
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Edit the JSON file with a text editor.
+To edit, change the value of the desired property,
+To delete, delete the whole entry for that album (from *{* to *}*)
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Deploy the contents of the cloned, and edited, repository, in a webpage
+
+Suggestion - Use **Github Pages**
+
+### Github Pages Guide
+
+#### Github Account
+
+Login / Sign Up - [github.com](https://github.com)
+
+#### New Repository
+
+Create a new repository named - **yourusername.github.io** (use your github username)
+
+![example](https://camo.githubusercontent.com/da5a2102873c2be1d5d94c52984dc90039f38e5e/68747470733a2f2f692e696d6775722e636f6d2f62545958766f752e706e67)
+
+#### Publish to repository
+
+Copy the repository's https link.
+
+Remove old git config
+
+```
+rm .git
+```
+
+Init git and publish to your new repository
+
+*For Example*
+```
+git init
+git add .
+git commit -m "publishing..."
+git push https://github.com/alt-romes/minblog.git
+```
+
+#### Accessing published website
+
+Visit **https://yourusername.github.io/** (use your github username)
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [NPM](https://www.npmjs.com/) - Dependency Management
+* [Bulma](https://bulma.io/) - CSS Framework
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Romes** - [About](https://alt-romes.github.io/#/about)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php)
