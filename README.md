@@ -3,6 +3,10 @@
 Share the most relevant albums you listened to.
 In time, you could see how your music taste changes (or not) over a few months
 
+#### Live Demo
+
+https://alt-romes.github.io/albumsofthemonth
+
 
 ## Getting Started
 
