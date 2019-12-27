@@ -346,6 +346,11 @@
             "cover": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/97/Pearl_Jam_Vs..jpg/200px-Pearl_Jam_Vs..jpg"
         },
         {
+            "name": "American Beauty",
+            "artist": "Grateful Dead",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/61CQ0t8g7iL._SY355_.jpg"
+        },
+        {
             "name": "Out Of Time",
             "artist": "R.E.M.",
             "cover": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/21/Out_of_Time.jpg/220px-Out_of_Time.jpg"
@@ -889,11 +894,6 @@
             "name": "O Monstro Precisa De Amigos",
             "artist": "Ornatos Violeta",
             "cover": "https://e.snmc.io/i/300/w/0aefbc0cc953b1282d0014c0fbe66a23/1239896"
-        },
-        {
-            "name": "American Beauty",
-            "artist": "Grateful Dead",
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/61CQ0t8g7iL._SY355_.jpg"
         },
         {
             "name": "Oracular Spectacular",
