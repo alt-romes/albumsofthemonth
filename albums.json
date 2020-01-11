@@ -87,14 +87,22 @@
             "year": 2019,
             "month": "december",
             "day": 5
+        },
+        {
+            "name": "Blue Bell Knoll",
+            "artist": "Cocteau Twins",
+            "cover": "https://cf-cdn.beggars.com/fourad/site/images/releases/packshots/5661989f73648.jpg",
+            "year": 2019,
+            "month": "december",
+            "day": 5
         }
     ],
     "current": {
-        "name": "Blue Bell Knoll",
-        "artist": "Cocteau Twins",
-        "cover": "https://cf-cdn.beggars.com/fourad/site/images/releases/packshots/5661989f73648.jpg",
-        "year": 2019,
-        "month": "december",
-        "day": 5
+        "name": "Fábulas",
+        "artist": "Reis Da República",
+        "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/19/c4/42/4375577/1540-1.jpg",
+        "year": 2020,
+        "month": "january",
+        "day": 6
     }
 }
