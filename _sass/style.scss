@@ -81,8 +81,8 @@ html {
 }
 
 .i-album {
-    padding-top: 4.5rem;
-    padding-bottom: 6rem;
+    padding-top: 5.5rem;
+    padding-bottom: 7rem;
     border-bottom: 1px solid rgba(0,0,0,0.05);
 }
 
@@ -97,6 +97,9 @@ html {
 @media only screen and (max-width: 770px) {
     .album-list {
         margin-top: 1rem;
+    }
+    .i-a-f {
+    	margin-bottom: 2rem;
     }
     .meta {
         &-album, &-artist {

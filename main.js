@@ -32,34 +32,37 @@ var app = {
                                     </nav>`
                 previousAlbunsEl.innerHTML += `
                                                 ${timeframehtml}
-                                                <nav class="level is-mobile i-album">
-                                                    <div class="level-item">
-                                                        <img src="${app.model.previous[i].cover}" class="figure i-a-f">
-                                                            <div class="container"></div>
-                                                        </img>
-                                                    </div>
-                                                    <p class="level-item"><strong>${app.model.previous[i].name}</strong></p>
-                                                    <p class="level-item"><em>${app.model.previous[i].artist}</em></p>
+                                                <nav class="level i-album">
+							<div class="level-left">
+							    <div class="level-item has-text-left">
+								<img src="${app.model.previous[i].cover}" class="figure i-a-f">
+								</img>
+							    </div>
+							</div>
+							<div class="level-item"></div>
+							<p class="level-item"><strong>${app.model.previous[i].name}</strong></p>
+							<p class="level-item"><em>${app.model.previous[i].artist}</em></p>
                                                 </nav>
                                                 `
             }
             document.getElementById("current-album").innerHTML = `
-                                                                <div class="column is-5">
-                                                                    <img class="post image" src="${app.model.current.cover}">
-                                                                        <div class="post-container"></div>
-                                                                    </img>
+                                                                <div class="column is-5 is-">
+									<figure class="post image">
+									    <img src="${app.model.current.cover}">
+									    </img>
+									</figure>
                                                                 </div>
                                                                 <div class="column is-8 meta">
                                                                     <br>
 
-                                                                    <div class="subtitle is-4 meta-album">
+                                                                    <div class="subtitle is-4 is-size-5-mobile meta-album">
                                                                         <p>${app.model.current.name}</p>
                                                                     </div>
 
-                                                                    <div class="subtitle is-5 meta-artist">
+                                                                    <div class="subtitle is-5 meta-artist is-size-6-mobile">
                                                                         <em>${app.model.current.artist}</em>
                                                                     </div>
-                                                                    <div class="subtitle is-7 meta-week has-text-centered">
+                                                                    <div class="subtitle is-7 meta-week has-text-centered is-size-8-mobile">
                                                                         <b>#${app.model.previous.length}</b>
                                                                     </div>
                                                                 </div>`
