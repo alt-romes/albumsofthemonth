@@ -95,14 +95,22 @@
             "year": 2019,
             "month": "december",
             "day": 5
+        },
+        {
+            "name": "Fábulas",
+            "artist": "Reis Da República",
+            "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/19/c4/42/4375577/1540-1.jpg",
+            "year": 2020,
+            "month": "january",
+            "day": 6
         }
     ],
     "current": {
-        "name": "Fábulas",
-        "artist": "Reis Da República",
-        "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/19/c4/42/4375577/1540-1.jpg",
+        "name": "Without You I'm Nothing",
+        "artist": "Placebo",
+        "cover": "https://upload.wikimedia.org/wikipedia/pt/5/5e/Placebbo_-_Without_You_I%27m_Nothing.jpg",
         "year": 2020,
         "month": "january",
-        "day": 6
+        "day": 2
     }
 }
