@@ -1,25 +1,9 @@
 {
     "previous": [
         {
-            "name": "Boys Don't Cry",
-            "artist": "The Cure",
-            "cover": "https://images-na.ssl-images-amazon.com/images/I/71HaTSu4GQL._SX355_.jpg",
-            "year": 2019,
-            "month": "october",
-            "day": 5
-        },
-        {
             "name": "Ornatos Violeta",
             "artist": "Ornatos Violeta",
             "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/ca/19/31/ca19318d-7b0e-2242-a33b-7e80e8dfcbc5/00602527909806.rgb.jpg/268x0w.jpg",
-            "year": 2019,
-            "month": "october",
-            "day": 5
-        },
-        {
-            "name": "Oracular Spectacular",
-            "artist": "MGMT",
-            "cover": "https://i.pinimg.com/originals/cc/a3/a0/cca3a0ddb80554b198cd09eb7af59d95.jpg",
             "year": 2019,
             "month": "october",
             "day": 5
