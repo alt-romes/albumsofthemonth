@@ -103,14 +103,22 @@
             "year": 2020,
             "month": "january",
             "day": 6
+        },
+        {
+            "name": "Without You I'm Nothing",
+            "artist": "Placebo",
+            "cover": "https://upload.wikimedia.org/wikipedia/pt/5/5e/Placebbo_-_Without_You_I%27m_Nothing.jpg",
+            "year": 2020,
+            "month": "january",
+            "day": 2
         }
     ],
     "current": {
-        "name": "Without You I'm Nothing",
-        "artist": "Placebo",
-        "cover": "https://upload.wikimedia.org/wikipedia/pt/5/5e/Placebbo_-_Without_You_I%27m_Nothing.jpg",
+        "name": "Misery Is A Butterfly",
+        "artist": "Blonde Redhead",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/61mCMyvv0YL.jpg",
         "year": 2020,
-        "month": "january",
-        "day": 2
+        "month": "february",
+        "day": 6
     }
 }
