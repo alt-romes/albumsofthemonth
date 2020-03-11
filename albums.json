@@ -95,14 +95,38 @@
             "year": 2020,
             "month": "january",
             "day": 2
+        },
+        {
+            "name": "Misery Is A Butterfly",
+            "artist": "Blonde Redhead",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/61mCMyvv0YL.jpg",
+            "year": 2020,
+            "month": "february",
+            "day": 6
+        },
+        {
+            "name": "Placebo",
+            "artist": "Placebo",
+            "cover": "https://img.discogs.com/LEDzITKfb8Qc9cqtg5youjCgovM=/fit-in/352x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2183414-1268507435.jpeg.jpg",
+            "year": 2020,
+            "month": "march",
+            "day": 3
+        },
+        {
+            "name": "Ununited",
+            "artist": "Romes",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/07/cc/5e/07cc5eaa-8a63-1483-a8bd-665785f32e8c/artwork.jpg/268x0w.jpg",
+            "year": 2020,
+            "month": "march",
+            "day": 3
         }
     ],
     "current": {
-        "name": "Misery Is A Butterfly",
-        "artist": "Blonde Redhead",
-        "cover": "https://images-na.ssl-images-amazon.com/images/I/61mCMyvv0YL.jpg",
+        "name": "Tubular Bells",
+        "artist": "Mike Oldfield",
+        "cover": "https://img.discogs.com/7-WR-CSQyw8Eihd6WPBur9dzSwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1740939-1374139580-5335.jpeg.jpg",
         "year": 2020,
-        "month": "february",
-        "day": 6
+        "month": "march",
+        "day": 3
     }
 }
