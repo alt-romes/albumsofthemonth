@@ -119,14 +119,22 @@
             "year": 2020,
             "month": "march",
             "day": 3
+        },
+        {
+            "name": "Tubular Bells",
+            "artist": "Mike Oldfield",
+            "cover": "https://img.discogs.com/7-WR-CSQyw8Eihd6WPBur9dzSwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1740939-1374139580-5335.jpeg.jpg",
+            "year": 2020,
+            "month": "march",
+            "day": 3
         }
     ],
     "current": {
-        "name": "Tubular Bells",
-        "artist": "Mike Oldfield",
-        "cover": "https://img.discogs.com/7-WR-CSQyw8Eihd6WPBur9dzSwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1740939-1374139580-5335.jpeg.jpg",
+        "name": "Mezzanine",
+        "artist": "Massive Attack",
+        "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/de/f8/15/def81561-0dad-01c8-601c-202202296878/00724384559953.rgb.jpg/268x0w.jpg",
         "year": 2020,
         "month": "march",
-        "day": 3
+        "day": 6
     }
 }
