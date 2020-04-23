@@ -135,14 +135,38 @@
             "year": 2020,
             "month": "march",
             "day": 6
+        },
+        {
+            "name": "It'll End in Tears",
+            "artist": "This Mortal Coil",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/08/d7/37/08d73754-a727-80b2-4381-596c695b4f98/cover.jpg/268x0w.jpg",
+            "year": 2020,
+            "month": "march",
+            "day": 1
+        },
+        {
+            "name": "Fantasma",
+            "artist": "Cornelius",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/1/13/Fantasma_album.png",
+            "year": 2020,
+            "month": "april",
+            "day": 4
+        },
+        {
+            "name": "Breathe",
+            "artist": "Eternal",
+            "cover": "https://img.discogs.com/vlOz7An6EP6E9eZXfxrl2JKay6I=/fit-in/540x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-534622-1128727655.jpeg.jpg",
+            "year": 2020,
+            "month": "april",
+            "day": 4
         }
     ],
     "current": {
-        "name": "It'll End in Tears",
-        "artist": "This Mortal Coil",
-        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/08/d7/37/08d73754-a727-80b2-4381-596c695b4f98/cover.jpg/268x0w.jpg",
+        "name": "Vespertine",
+        "artist": "Björk",
+        "cover": "https://upload.wikimedia.org/wikipedia/pt/5/56/BjorkVespertine.jpeg",
         "year": 2020,
-        "month": "march",
-        "day": 1
+        "month": "april",
+        "day": 4
     }
 }
