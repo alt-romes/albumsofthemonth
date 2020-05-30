@@ -159,14 +159,30 @@
             "year": 2020,
             "month": "april",
             "day": 4
+        },
+        {
+            "name": "Vespertine",
+            "artist": "Björk",
+            "cover": "https://upload.wikimedia.org/wikipedia/pt/5/56/BjorkVespertine.jpeg",
+            "year": 2020,
+            "month": "april",
+            "day": 4
+        },
+        {
+            "name": "Every Bad",
+            "artist": "Porridge Radio",
+            "cover": "https://media.pitchfork.com/photos/5e61297a5580e10008f9f3b2/1:1/w_600/EveryBad.jpg",
+            "year": 2020,
+            "month": "may",
+            "day": 6
         }
     ],
     "current": {
-        "name": "Vespertine",
-        "artist": "Björk",
-        "cover": "https://upload.wikimedia.org/wikipedia/pt/5/56/BjorkVespertine.jpeg",
+        "name": "A I A: Alien Observer",
+        "artist": "Grouper",
+        "cover": "https://img.discogs.com/h26RVUW7iROHRS7O54uN9R0hkg8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2831577-1357364019-1734.jpeg.jpg",
         "year": 2020,
-        "month": "april",
-        "day": 4
+        "month": "may",
+        "day": 6
     }
 }
