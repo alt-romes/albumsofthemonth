@@ -175,14 +175,62 @@
             "year": 2020,
             "month": "may",
             "day": 6
+        },
+        {
+            "name": "A I A: Alien Observer",
+            "artist": "Grouper",
+            "cover": "https://img.discogs.com/h26RVUW7iROHRS7O54uN9R0hkg8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2831577-1357364019-1734.jpeg.jpg",
+            "year": 2020,
+            "month": "may",
+            "day": 6
+        },
+        {
+            "name": "Waking Life",
+            "artist": "Romes",
+            "cover": "https://lh3.googleusercontent.com/t7yeCuHAyQKmNrQYZZupkcUvR1xXGQH8WR1eRBjTWQhkNaeom6ZW4gTYKkgTRkwveH1Wufllsw=w720-c-h720-e100-v1",
+            "year": 2020,
+            "month": "july",
+            "day": 5
+        },
+        {
+            "name": "Ser Sólidário",
+            "artist": "José Mário Branco",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/bc/1f/b5/bc1fb58b-2ebd-d714-fb2f-c068563443ca/5099901770452.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "july",
+            "day": 5
+        },
+        {
+            "name": "Let Love In",
+            "artist": "Nick Cave & The Bad Seeds",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/ed/6e/bf/ed6ebfc2-2936-1afc-c7ac-dc817d27f25d/5099909572058.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "july",
+            "day": 5
+        },
+        {
+            "name": "Aion",
+            "artist": "Dead Can Dance",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Features/12/56/e0/dj.zdyyqgjq.tif/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "july",
+            "day": 5
+        },
+        {
+            "name": "Beneath The Eyrie",
+            "artist": "Pixies",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/1e/2e/a9/1e2ea908-097b-179e-7a00-9832e4138102/4050538514131.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "july",
+            "day": 5
         }
     ],
     "current": {
-        "name": "A I A: Alien Observer",
-        "artist": "Grouper",
-        "cover": "https://img.discogs.com/h26RVUW7iROHRS7O54uN9R0hkg8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2831577-1357364019-1734.jpeg.jpg",
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "artist": "Courtney Barnett",
+        "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/e4/aa/8f/e4aa8fbe-e420-1f1a-f1f7-9d0057db0440/cover.jpg/1000x1000bb-60.jpg",
         "year": 2020,
-        "month": "may",
-        "day": 6
+        "month": "july",
+        "day": 5
     }
 }
