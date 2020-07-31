@@ -189,7 +189,7 @@
             "artist": "Romes",
             "cover": "https://lh3.googleusercontent.com/t7yeCuHAyQKmNrQYZZupkcUvR1xXGQH8WR1eRBjTWQhkNaeom6ZW4gTYKkgTRkwveH1Wufllsw=w720-c-h720-e100-v1",
             "year": 2020,
-            "month": "july",
+            "month": "june",
             "day": 5
         },
         {
@@ -197,7 +197,7 @@
             "artist": "José Mário Branco",
             "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/bc/1f/b5/bc1fb58b-2ebd-d714-fb2f-c068563443ca/5099901770452.jpg/1000x1000bb-60.jpg",
             "year": 2020,
-            "month": "july",
+            "month": "june",
             "day": 5
         },
         {
@@ -205,7 +205,7 @@
             "artist": "Nick Cave & The Bad Seeds",
             "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/ed/6e/bf/ed6ebfc2-2936-1afc-c7ac-dc817d27f25d/5099909572058.jpg/1000x1000bb-60.jpg",
             "year": 2020,
-            "month": "july",
+            "month": "june",
             "day": 5
         },
         {
@@ -213,14 +213,54 @@
             "artist": "Dead Can Dance",
             "cover": "https://is3-ssl.mzstatic.com/image/thumb/Features/12/56/e0/dj.zdyyqgjq.tif/1000x1000bb-60.jpg",
             "year": 2020,
+            "month": "june",
+            "day": 5
+        },
+        {
+            "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+            "artist": "Courtney Barnett",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/e4/aa/8f/e4aa8fbe-e420-1f1a-f1f7-9d0057db0440/cover.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "june",
+            "day": 5
+        },
+        {
+            "name": "Violent Femmes",
+            "artist": "Violent Femmes",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/ee/b5/94/eeb59498-992d-6887-0e13-d41ace2e72b5/888072097353_cover.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "july",
+            "day": 5
+        },
+        {
+            "name": "Ask Me Tomorrow",
+            "artist": "Mojave 3",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/72/e7/42/72e74242-1bc1-47fe-8162-7148a86d7061/cover.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "july",
+            "day": 5
+        },
+        {
+            "name": "Lovelife",
+            "artist": "Lush",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/4e/33/33/4e33338b-ea05-1534-6512-f73cb2143e78/cover.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "july",
+            "day": 5
+        },
+        {
+            "name": "Puddle Dive",
+            "artist": "Ani DiFranco",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/9a/36/6a/9a366a8d-e000-865e-91e6-3da8995312ac/cover.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
             "month": "july",
             "day": 5
         }
     ],
     "current": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "artist": "Courtney Barnett",
-        "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/e4/aa/8f/e4aa8fbe-e420-1f1a-f1f7-9d0057db0440/cover.jpg/1000x1000bb-60.jpg",
+        "name": "Closer",
+        "artist": "Joy Division",
+        "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/00/fc/a3/00fca353-3784-a3af-c92e-a6c8867058ea/190295264437.jpg/1000x1000bb-60.jpg",
         "year": 2020,
         "month": "july",
         "day": 5
