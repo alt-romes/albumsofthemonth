@@ -247,14 +247,46 @@
             "year": 2020,
             "month": "july",
             "day": 5
+        },
+        {
+            "name": "Closer",
+            "artist": "Joy Division",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/00/fc/a3/00fca353-3784-a3af-c92e-a6c8867058ea/190295264437.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "july",
+            "day": 5
+        },
+        {
+            "name": "Goo",
+            "artist": "Sonic Youth",
+            "cover": "https://img.discogs.com/mX0-76EDaQZCKzPOayxrJvVdUUE=/fit-in/564x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655290-1201144398.jpeg.jpg",
+            "year": 2020,
+            "month": "august",
+            "day": 1
+        },
+        {
+            "name": "Mother Earth's Plantasia",
+            "artist": "Mort Garson",
+            "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/ed/06/59/5834477/1540-1.jpg",
+            "year": 2020,
+            "month": "august",
+            "day": 1
+        },
+        {
+            "name": "Ceres & Calypso in the Deep Time",
+            "artist": "Candy Claws",
+            "cover": "https://m.media-amazon.com/images/I/81kerj9PTuL._SS500_.jpg",
+            "year": 2020,
+            "month": "august",
+            "day": 1
         }
     ],
     "current": {
-        "name": "Closer",
-        "artist": "Joy Division",
-        "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/00/fc/a3/00fca353-3784-a3af-c92e-a6c8867058ea/190295264437.jpg/1000x1000bb-60.jpg",
+        "name": "Among My Swan",
+        "artist": "Mazzy Star",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/Mazzy_Star_-_Among_My_Swan.png",
         "year": 2020,
-        "month": "july",
-        "day": 5
+        "month": "august",
+        "day": 1
     }
 }
