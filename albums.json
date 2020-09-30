@@ -279,14 +279,62 @@
             "year": 2020,
             "month": "august",
             "day": 1
+        },
+        {
+            "name": "Among My Swan",
+            "artist": "Mazzy Star",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/Mazzy_Star_-_Among_My_Swan.png",
+            "year": 2020,
+            "month": "august",
+            "day": 1
+        },
+        {
+            "name": "Primavera Negra",
+            "artist": "Linda Guilala",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/9e/d4/4f/9ed44f40-a7dd-9c59-dd9e-ee9c3a7d1027/ER-349.jpg/500x500bb-60.jpg",
+            "year": 2020,
+            "month": "september",
+            "day": 3
+        },
+        {
+            "name": "Stratosphere",
+            "artist": "Duster",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/da/53/b7/da53b7a6-d4ec-90e7-250c-91cbc8b16399/cover.jpg/500x500bb-60.jpg",
+            "year": 2020,
+            "month": "september",
+            "day": 3
+        },
+        {
+            "name": "Animal Park",
+            "artist": "Unrest",
+            "cover": "https://img.discogs.com/0lzAwZfA3GZrkB4J9XJplCYjNnE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-791676-1382983888-3018.jpeg.jpg",
+            "year": 2020,
+            "month": "september",
+            "day": 3
+        },
+        {
+            "name": "Sister",
+            "artist": "Sonic Youth",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/59/68/fb/5968fb3b-eb23-99b8-333c-6029d58559ce/818756010941_cover.jpg/500x500bb-60.jpg",
+            "year": 2020,
+            "month": "september",
+            "day": 3
+        },
+        {
+            "name": "Psychocandy",
+            "artist": "The Jesus and Mary Chain",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music/f6/76/86/mzi.yobhspgv.jpg/500x500bb-60.jpg",
+            "year": 2020,
+            "month": "september",
+            "day": 3
         }
     ],
     "current": {
-        "name": "Among My Swan",
-        "artist": "Mazzy Star",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/Mazzy_Star_-_Among_My_Swan.png",
+        "name": "4AD Presents the 13 Year Itch",
+        "artist": "Various Artists",
+        "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music/a4/38/69/mzi.vwsvmcnw.jpg/500x500bb-60.jpg",
         "year": 2020,
-        "month": "august",
-        "day": 1
+        "month": "september",
+        "day": 3
     }
 }
