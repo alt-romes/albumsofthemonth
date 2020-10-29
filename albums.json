@@ -327,14 +327,22 @@
             "year": 2020,
             "month": "september",
             "day": 3
+        },
+        {
+            "name": "4AD Presents the 13 Year Itch",
+            "artist": "Various Artists",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music/a4/38/69/mzi.vwsvmcnw.jpg/500x500bb-60.jpg",
+            "year": 2020,
+            "month": "september",
+            "day": 3
         }
     ],
     "current": {
-        "name": "4AD Presents the 13 Year Itch",
-        "artist": "Various Artists",
-        "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music/a4/38/69/mzi.vwsvmcnw.jpg/500x500bb-60.jpg",
+        "name": "The Book About My Idle Plot On A Vague Anxiety",
+        "artist": "toe",
+        "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music117/v4/fd/a4/ce/fda4cef6-ea5d-4e33-b2df-0d9ca909e279/4538182201770_cov.jpg/270x270bb-60.jpg",
         "year": 2020,
-        "month": "september",
-        "day": 3
+        "month": "october",
+        "day": 4
     }
 }
