@@ -81,7 +81,7 @@ To delete, delete the whole entry for that album (from *{* to *}*)
 
 ## Deployment
 
-Deploy the contents of the cloned, and edited, repository, in a webpage
+Deploy the contents of the cloned, and edited, repository
 
 Suggestion - Use **Github Pages**
 
