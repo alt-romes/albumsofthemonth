@@ -337,12 +337,20 @@
             "day": 3
         },
         {
-            "name": "The Book About My Idle Plot On A Vague Anxiety",
-            "artist": "toe",
-            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music117/v4/fd/a4/ce/fda4cef6-ea5d-4e33-b2df-0d9ca909e279/4538182201770_cov.jpg/270x270bb-60.jpg",
+            "name": "Buena Vista",
+            "artist": "Senri Kawaguchi",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/e6/44/0b/e6440bac-2fe9-f10d-42a1-a43c390accfd/889176260759.jpg/500x500bb-60.jpg",
             "year": 2020,
             "month": "october",
-            "day": 4
+            "day": 6
+        },
+        {
+            "name": "The Queen Is Dead",
+            "artist": "The Smiths",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/96/55/da/9655da6b-6953-b732-501f-759ae260a926/745099189662.jpg/500x500bb-60.jpg",
+            "year": 2020,
+            "month": "october",
+            "day": 6
         },
         {
             "name": "T H E",
@@ -353,6 +361,14 @@
             "day": 6
         },
         {
+            "name": "The Book About My Idle Plot On A Vague Anxiety",
+            "artist": "toe",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music117/v4/fd/a4/ce/fda4cef6-ea5d-4e33-b2df-0d9ca909e279/4538182201770_cov.jpg/270x270bb-60.jpg",
+            "year": 2020,
+            "month": "october",
+            "day": 4
+        },
+        {
             "name": "Linda Martini",
             "artist": "Linda Martini",
             "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/d2/47/b3/d247b330-1bce-fb44-fbcf-cdcf7b07da78/886446900049.jpg/500x500bb-60.jpg",
@@ -361,25 +377,9 @@
             "day": 6
         },
         {
-            "name": "Buena Vista",
-            "artist": "Senri Kawaguchi",
-            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/e6/44/0b/e6440bac-2fe9-f10d-42a1-a43c390accfd/889176260759.jpg/500x500bb-60.jpg",
-            "year": 2020,
-            "month": "october",
-            "day": 6
-        },
-        {
             "name": "Soundso",
             "artist": "Wir sind Helden",
             "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music6/v4/fd/ef/8e/fdef8e01-22c0-d887-3b10-a15a14abb1c9/00094639246151.jpg/500x500bb-60.jpg",
-            "year": 2020,
-            "month": "october",
-            "day": 6
-        },
-        {
-            "name": "The Queen Is Dead",
-            "artist": "The Smiths",
-            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/96/55/da/9655da6b-6953-b732-501f-759ae260a926/745099189662.jpg/500x500bb-60.jpg",
             "year": 2020,
             "month": "october",
             "day": 6
