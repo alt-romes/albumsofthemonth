@@ -30,20 +30,24 @@ var app = {
                                             </div>
                                         </div>
                                     </nav>`
-                previousAlbunsEl.innerHTML += `
-                                                ${timeframehtml}
-                                                <nav class="level i-album">
+                previousAlbunsEl.innerHTML += ` 
+                        ${timeframehtml}
+                        <nav class="level i-album">
+
 							<div class="level-left">
 							    <div class="level-item has-text-left">
 								<img src="${app.model.previous[i].cover}" class="figure i-a-f">
 								</img>
 							    </div>
 							</div>
-							<div class="level-item"></div>
-							<p class="level-item"><strong>${app.model.previous[i].name}</strong></p>
-							<p class="level-item"><em>${app.model.previous[i].artist}</em></p>
-                                                </nav>
-                                                `
+
+                            <p class="level-item"><strong>${app.model.previous[i].name}</strong></p>
+
+                            <div class="level-right">
+                                <p class="level-item"><em>${app.model.previous[i].artist}</em></p>
+                            </div>
+
+                        </nav> `
             }
             document.getElementById("current-album").innerHTML = `
                                                                 <div class="column is-5 is-">

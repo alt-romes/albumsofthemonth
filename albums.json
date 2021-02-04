@@ -413,7 +413,7 @@
             "artist": "Michelle Gurevich",
             "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e9/f9/19/e9f9198d-4e09-993d-c7a4-09547146d14e/859718307167_cover.jpg/1000x1000bb-60.jpg",
             "year": 2020,
-            "month": "december",
+            "month": "november",
             "day": 0
         },
         {
@@ -421,7 +421,7 @@
             "artist": "Talking Heads",
             "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/b8/dc/ee/b8dcee50-35f7-0821-1c5c-65c6a56b6227/dj.vwcxdnqx.jpg/1000x1000bb-60.jpg",
             "year": 2020,
-            "month": "december",
+            "month": "november",
             "day": 0
         },
         {
@@ -429,7 +429,7 @@
             "artist": "Boa",
             "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music2/v4/09/38/a5/0938a538-283e-b22c-7ab9-7b7655465e19/634479302091.jpg/1000x1000bb-60.jpg",
             "year": 2020,
-            "month": "december",
+            "month": "november",
             "day": 0
         },
         {
@@ -437,7 +437,7 @@
             "artist": "Panchiko",
             "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/9d/9e/1d/9d9e1df8-0070-c7f0-6059-4a6eb8bf3938/cover.jpg/1000x1000bb-60.jpg",
             "year": 2020,
-            "month": "december",
+            "month": "november",
             "day": 0
         },
         {
@@ -445,15 +445,7 @@
             "artist": "Panchiko",
             "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b3/e3/a5/b3e3a569-e7bd-d312-d865-042f87a3be9b/cover.jpg/1000x1000bb-60.jpg",
             "year": 2020,
-            "month": "december",
-            "day": 0
-        },
-        {
-            "name": "The Head On the Door",
-            "artist": "The Cure",
-            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/d2/5c/d2/d25cd263-9904-f4bc-8836-b63f44a175c5/00602498400166.rgb.jpg/1000x1000bb-60.jpg",
-            "year": 2020,
-            "month": "december",
+            "month": "november",
             "day": 0
         },
         {
@@ -461,7 +453,15 @@
             "artist": "Talking Heads",
             "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/13/b6/e2/13b6e27b-0153-1c7b-1159-6e220509005f/dj.adpnobgy.jpg/1000x1000bb-60.jpg",
             "year": 2020,
-            "month": "december",
+            "month": "november",
+            "day": 0
+        },
+        {
+            "name": "The Head On the Door",
+            "artist": "The Cure",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/d2/5c/d2/d25cd263-9904-f4bc-8836-b63f44a175c5/00602498400166.rgb.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "november",
             "day": 0
         },
         {
@@ -479,14 +479,78 @@
             "year": 2020,
             "month": "december",
             "day": 0
+        },
+        {
+            "name": "Bom Dia",
+            "artist": "Pluto",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/de/61/f7/de61f759-dca6-7ce1-c50b-82d302302309/00602498683842.rgb.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "december",
+            "day": 0
+        },
+        {
+            "name": "CATHARSIS",
+            "artist": "ANGELXII",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/06/b7/0f/06b70f54-a169-2218-8a14-14fc55aa303c/cover.jpg/1000x1000bb-60.jpg",
+            "year": 2020,
+            "month": "december",
+            "day": 4
+        },
+        {
+            "name": "Litourgiya",
+            "artist": "Batushka",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/99/a3/42/99a34261-77e9-fd35-3147-1a2c3a6ab6b5/cover.jpg/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "january",
+            "day": 4
+        },
+        {
+            "name": "Bunka",
+            "artist": "Eve",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/e7/fc/0c/e7fc0c13-1c50-9b85-94d5-e7ffb3ba723f/195497876488.jpg/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "january",
+            "day": 4
+        },
+        {
+            "name": "Rosenrot",
+            "artist": "Rammstein",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/06/71/87/06718753-0c1a-02fe-9ac0-bee1536ccb77/00602527316109.rgb.jpg/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "january",
+            "day": 4
+        },
+        {
+            "name": "взрослый альбом",
+            "artist": "Ада",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/4c/94/6f/4c946f65-5682-6b14-a030-0c580eff25c2/cover.jpg/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "january",
+            "day": 4
+        },
+        {
+            "name": "Außen Top Hits, Innen Geschmack",
+            "artist": "Fettes Brot",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/37/c8/a5/37c8a542-ea19-14ca-c130-91fd35155bd8/4018939307264_1448.jpg/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "january",
+            "day": 4
+        },
+        {
+            "name": "Этажи",
+            "artist": "Molchat Doma",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/b5/f4/3c/b5f43cac-68d5-7ac6-d39e-7f2f35cb17dc/cover.jpg/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "february",
+            "day": 4
         }
     ],
     "current": {
-        "name": "Bom Dia",
-        "artist": "Pluto",
-        "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/de/61/f7/de61f759-dca6-7ce1-c50b-82d302302309/00602498683842.rgb.jpg/1000x1000bb-60.jpg",
-        "year": 2020,
-        "month": "december",
-        "day": 0
+        "name": "Happy Bivouac",
+        "artist": "the pillows",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/The_pillows_-_HAPPY_BIVOUAC.jpg",
+        "year": 2021,
+        "month": "february",
+        "day": 4
     }
 }
