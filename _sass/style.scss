@@ -38,9 +38,6 @@ $footer-padding: 3rem 1.5rem;
 
 html {
     height: 100vh;
-    // zoom: 1.10;
-    // -moz-transform: scale(1.10);
-    // -moz-transform-origin: 0 0;
 }
 
 .aotw, .timeframe {
@@ -96,6 +93,10 @@ html {
     width: 5rem;
     box-shadow: 0 0 .5rem rgba(0,0,0,0.10);
     -webkit-box-reflect: below 1rem linear-gradient(180deg, rgba(#fff, 0) 65%, rgba(#fff, 0.25) 100%);
+}
+
+.post > img {
+    height: 100%;
 }
 
 @media only screen and (max-width: 770px) {
