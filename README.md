@@ -1,7 +1,7 @@
 # Albums Of The Month
 
 Share the most relevant albums you listened to.
-In time, you could see how your music taste changes (or not) over a few months
+In time, see how your music taste changes (or not)
 
 #### Live Demo
 
