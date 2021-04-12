@@ -1,5 +1,8 @@
 # Albums Of The Month
 
+Notice: I'm currently rewriting and redesigning this onto my upcoming homepage
+
+
 Share the most relevant albums you listened to.
 In time, see how your music taste changes (or not)
 
