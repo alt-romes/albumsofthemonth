@@ -521,14 +521,6 @@
             "day": 4
         },
         {
-            "name": "взрослый альбом",
-            "artist": "Ада",
-            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/4c/94/6f/4c946f65-5682-6b14-a030-0c580eff25c2/cover.jpg/1000x1000bb-60.jpg",
-            "year": 2021,
-            "month": "january",
-            "day": 4
-        },
-        {
             "name": "Außen Top Hits, Innen Geschmack",
             "artist": "Fettes Brot",
             "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music71/v4/37/c8/a5/37c8a542-ea19-14ca-c130-91fd35155bd8/4018939307264_1448.jpg/1000x1000bb-60.jpg",
@@ -551,14 +543,62 @@
             "year": 2021,
             "month": "february",
             "day": 4
+        },
+        {
+            "name": "Happy Bivouac",
+            "artist": "the pillows",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/The_pillows_-_HAPPY_BIVOUAC.jpg",
+            "year": 2021,
+            "month": "february",
+            "day": 4
+        },
+        {
+            "name": "Seabed Eden",
+            "artist": "Ichiko Aoba",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/c9/50/47/c95047e3-81ba-4739-554f-c0cd028953d4/859756090953_cover.png/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "april",
+            "day": 1
+        },
+        {
+            "name": "Gorillaz",
+            "artist": "Gorillaz",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Video114/v4/d2/16/73/d2167341-793e-f5f6-5a3c-53611acc2a1e/Job8562ad54-4bcd-4cdf-b234-fb323d6e88cf-110454836-PreviewImage_PreviewImageIntermediate_preview_image_nonvideo_vfcs115120321-Time1616781574084.png/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "april",
+            "day": 1
+        },
+        {
+            "name": "ep's 1988-1991 and rare tracks",
+            "artist": "my bloody valentine",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Video124/v4/11/d2/02/11d202ff-acec-7fcd-c345-1023fd0e8f99/Job38c61b64-3558-432d-b175-552c00363a09-110427849-PreviewImage_preview_image_nonvideo_sdr-Time1616705450905.png/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "april",
+            "day": 1
+        },
+        {
+            "name": "Surfer Rosa",
+            "artist": "Pixies",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/22/65/8b/22658b03-55d9-0217-2db7-0b7becf40ab6/652637080308.png/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "april",
+            "day": 1
+        },
+        {
+            "name": "Just for a Day",
+            "artist": "Slowdive",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Music/51/5e/6b/mzi.ibzmksuk.jpg/1000x1000bb-60.jpg",
+            "year": 2021,
+            "month": "april",
+            "day": 1
         }
     ],
     "current": {
-        "name": "Happy Bivouac",
-        "artist": "the pillows",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/The_pillows_-_HAPPY_BIVOUAC.jpg",
+        "name": "loveless",
+        "artist": "my bloody valentine",
+        "cover": "https://is2-ssl.mzstatic.com/image/thumb/Video124/v4/19/e9/ca/19e9ca00-bdd6-0ee8-97d5-c8bf1003285b/Jobdd191d1d-1da1-4dba-b9ee-a7a8d1321819-110427108-PreviewImage_preview_image_nonvideo_sdr-Time1616701119751.png/1000x1000bb-60.jpg",
         "year": 2021,
-        "month": "february",
-        "day": 4
+        "month": "april",
+        "day": 1
     }
 }
